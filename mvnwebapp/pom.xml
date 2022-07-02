@@ -76,7 +76,7 @@
         <artifactId>maven-war-plugin</artifactId>
         <version>3.3.2</version>
         <configuration>
-		  <failOnMissingWebXml>false</failOnMissingWebXml>
+		  <webXml>webapp/WEB-INF/web.xml</webXml>
           <webappDirectory>/sample/servlet/container/deploy/directory</webappDirectory>
         </configuration>
       </plugin>
