@@ -77,7 +77,6 @@
         <version>3.3.2</version>
         <configuration>
 		  <webXml>webapp/WEB-INF/web.xml</webXml>
-          <webappDirectory>/sample/servlet/container/deploy/directory</webappDirectory>
         </configuration>
       </plugin>
 
